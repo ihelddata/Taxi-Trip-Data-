@@ -1,5 +1,5 @@
 # Taxi-Trip-Data-
-Capstone projet of Google Advanced Data Analytics Project
+Capstone project of Google Advanced Data Analytics Certification
 
 ## Predicting Taxi Gratuities in New York City
 
